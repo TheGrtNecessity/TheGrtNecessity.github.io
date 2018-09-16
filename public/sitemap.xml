@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://TheGrtNecessity.gitlab.io/blog/my-first-post/</loc>
+    <lastmod>2018-07-29T10:35:12-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://TheGrtNecessity.gitlab.io/about/</loc>
+    <lastmod>2018-07-23T21:55:34-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://TheGrtNecessity.gitlab.io/categories/about/</loc>
+    <lastmod>2018-07-23T21:55:34-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://TheGrtNecessity.gitlab.io/blog/</loc>
+    <lastmod>2018-07-29T10:35:12-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://TheGrtNecessity.gitlab.io/categories/</loc>
+    <lastmod>2018-07-23T21:55:34-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://TheGrtNecessity.gitlab.io/</loc>
+    <lastmod>2018-07-29T10:35:12-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://TheGrtNecessity.gitlab.io/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>

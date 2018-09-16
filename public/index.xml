@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jesse Dorey-Ferrera</title>
+    <link>https://TheGrtNecessity.gitlab.io/</link>
+    <description>Recent content on Jesse Dorey-Ferrera</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 29 Jul 2018 10:35:12 -0400</lastBuildDate>
+    
+	<atom:link href="https://TheGrtNecessity.gitlab.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>My First Post</title>
+      <link>https://TheGrtNecessity.gitlab.io/blog/my-first-post/</link>
+      <pubDate>Sun, 29 Jul 2018 10:35:12 -0400</pubDate>
+      
+      <guid>https://TheGrtNecessity.gitlab.io/blog/my-first-post/</guid>
+      <description>This is the first post of a new blog by some guy on a trip.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://TheGrtNecessity.gitlab.io/about/</link>
+      <pubDate>Mon, 23 Jul 2018 21:55:34 -0400</pubDate>
+      
+      <guid>https://TheGrtNecessity.gitlab.io/about/</guid>
+      <description>Hi, my name is Jesse Dorey-Ferrera.
+I am an trained economist with a passion for banking, technology and analytics. I recieved my Masters of Arts in Economics from American University in 2010. I spent the majority of my time at American researching international economics, including the Federal Reserve&amp;rsquo;s dollar liquidity swap program and soverign debt. After a few months of living in Mexico City I entered the world of community banking in an effort to learn the microeconomics of debt and how banks lend to real world businesses.</description>
+    </item>
+    
+  </channel>
+</rss>

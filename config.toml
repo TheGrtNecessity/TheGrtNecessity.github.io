@@ -1,0 +1,64 @@
+## Basic Configuration
+
+baseurl = "https://TheGrtNecessity.gitlab.io" 
+builddrafts = false
+canonifyurls = false
+languageCode = "en-US"
+
+contentdir = "content"
+layoutdir = "layouts"
+publishdir = "public"
+
+author = "Jesse Dorey-Ferrera"
+title = "Jesse Dorey-Ferrera"
+
+theme = "hugo-goa"
+
+## Hugo Built-in Features
+##disqusShortname = "https-shenoybr-github-io-hugo-goa-demo" # Comment out to disable Disqus.
+##googleAnalytics = "XYZ"
+enableRobotsTXT = true
+
+## Site Settings
+[params]
+author = "Jesse Dorey-Ferrera"
+intro = "Economist by training, Banker by trade with a passion for technology and analytics."
+description = "Senior Vice President at Access National Bank."
+authorimage = "headshot.jpg"
+dateformat = "Jan 2, 2006"
+
+## Site Meta Settings
+[params.meta]
+description = "Economics, Finance and Technology..."
+##keywords = "minimalist,blog,goa,hugo,developer"
+
+## Social Accounts
+[params.social]
+linkedin = "jessedoreyferrera"
+twitter = "TheGrtNecessity"
+github = "TheGrtNecessity"
+##instagram = "<username>"
+##xing = "<username>"
+##facebook = "<username>"
+##google = "jesse.doreyferrera"
+##stackoverflow = "<username>"
+email = "jesse.doreyferrera@gmail.com"
+
+## Extras
+[params.extra]
+copyright = "© 2018. Jesse Dorey-Ferrera. [Some Rights Reserved](http://creativecommons.org/licenses/by/3.0/)." 
+poweredby = true
+highlightjs = true
+
+## Main Menu
+[[menu.main]]
+    name = "blog"
+    weight = 110
+    identifier = "blog"
+    url = "/blog/"
+[[menu.main]]
+    name = "about"
+    identifier = "about"
+    weight = 100
+    url = "/about/"
+

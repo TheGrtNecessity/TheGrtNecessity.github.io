@@ -23,7 +23,7 @@ enableRobotsTXT = true
 [params]
 author = "Jesse Dorey-Ferrera"
 intro = "Economist by training, Banker by trade with a passion for technology and analytics."
-description = "Senior Vice President at Access National Bank."
+description = "Vice President at City National Bank"
 authorimage = "headshot.jpg"
 dateformat = "Jan 2, 2006"
 
@@ -52,10 +52,10 @@ highlightjs = true
 
 ## Main Menu
 [[menu.main]]
-    name = "blog"
-    weight = 110
-    identifier = "blog"
-    url = "/blog/"
+   ## name = "blog"
+   ## weight = 110
+   ## identifier = "blog"
+   ## url = "/blog/"
 [[menu.main]]
     name = "about"
     identifier = "about"

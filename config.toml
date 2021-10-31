@@ -1,6 +1,6 @@
 ## Basic Configuration
 
-baseurl = "https://TheGrtNecessity.gitlab.io" 
+baseurl = "https://TheGrtNecessity.github.io" 
 builddrafts = false
 canonifyurls = false
 languageCode = "en-US"
